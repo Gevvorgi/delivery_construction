@@ -920,9 +920,6 @@ ol li:before {
         padding: 0;
         width: 300px;
     }
-    .comment {
-       max-width: 100%;
-    }
     .comment__text {
         max-width: 260px;
         margin-bottom: 32px;
